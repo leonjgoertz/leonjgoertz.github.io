@@ -1,64 +1,52 @@
 ---
 layout: archive
-title: "CV"
+title: "Short CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+## Education
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **Ph.D. in Mathematics**, University of Hamburg, Germany, 2023-*current*
+* **Double M.Sc. in Mathematical Sciences and Theoretical Physics**, Utrecht University, Netherlands, 2020-2023
+* Erasmus+ semester in Trento, Italy, 2022
+* **B.Sc. in Mathematics**, Goethe-University Frankfurt am Main, Germany, 2016-2019
+* **B.Sc. in Physics**, Goethe-University Frankfurt am Main, Germany, 2016-2019
+* Erasmus+ year in Bergen, Norway, 2018/19
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+## Employment
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* **Research Assistant** at the Department of Mathematics, University of Hamburg, Germany, 2023-*current*
+* **Teaching Assistant** for several mathematics courses, Utrecht University, Netherlands, 2020-2023
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+## Preprints and publications
+<ol reversed>
+<li> <b>A note on TQFTs for orientable 2-dimensional cobordisms</b>, <i>joint with Paul Wedrich</i>, <a href="https://arxiv.org/abs/2511.19373">arXiv:2511.19373</a>, preprint, 2025. </li>
+<li> <b>A construction of surface skein TQFTs and their extension to 4-dimensional 2-handlebodies</b>, <a href="https://arxiv.org/abs/2511.19352">arXiv:2511.19352</a>, preprint, 2025. </li>
+</ol>
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+## Invited talks
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* A construction of surface skein TQFTs from commutative Frobenius algebras and their extension to 4d 2-handlebodies, *[Lie Group Seminar](https://en.www.math.fau.de/lie-groups/lie-gveranstaltungskalender-lie-gruppen-2/lectures-ws-2025-2026/), Erlangen, Germany* 2025.
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+## Teaching
+
+* At University of Hamburg
+  * Winter term 2025/26: Exercise class for basic concepts of geometry
+  * Summer term 2025: Exercise class and tutorial for linear algebra II
+  * Winter term 2024/25: Exercise class and tutorial for linear algebra I
+  * Summer term 2024: Tutorial for linear algebra II
+  * Winter term 2023/24: Exercise class for algebra
+* At Utrecht University
+  * Block 4, summer term 2023: Exercise class for elementary number theory
+  * Block 1, winter term 2022/23: Exercise class for fields and Galois theory
+  * Block 4, summer term 2021: Exercise class for introduction to groups and rings
+  * Block 1, winter term 2020/21: Exercise class for elementary number theory
+
+## Service
+
+* Co-organizer of the Junior ZMP seminar in the winter term 2024/25, University of Hamburg, Germany
+* Managing the multimedia studio at the Department of Mathematics, University of Hamburg, Germany, 2023-*current*
+* Student ambassador at Utrecht University, Netherlands, 2020-2023
