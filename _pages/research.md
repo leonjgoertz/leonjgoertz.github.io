@@ -6,7 +6,7 @@ author_profile: true
 ---
  
 
-My main reserach interests are in categorification in the context of low-dimensional topology, representation theory and mathematical physics. I enjoy using tools from category theory as an organizing pricinple and doing explicit computations with graphical calculus to construct invariants in quantum topology.
+My main reserach interests are in categorification in the context of low-dimensional topology, representation theory and mathematical physics. In particular, I am interested in topological quantum field theories (TQFTs) and link homology theories. I enjoy using tools from category theory as an organizing pricinple and doing explicit computations with graphical calculus to construct invariants in quantum topology.
 
 If you're interested in my work, feel free to contact me. I would be happy to chat or give a talk about my research!
 
