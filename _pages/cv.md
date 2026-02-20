@@ -23,11 +23,14 @@ redirect_from:
 
 ## Preprints and publications
 <ol reversed>
-<li> <b>A note on TQFTs for orientable 2-dimensional cobordisms</b>, <i>joint with Paul Wedrich</i>, <a href="https://arxiv.org/abs/2511.19373">arXiv:2511.19373</a>, preprint, 2025. </li>
+<li> <b>Monoidal 2-categories from foam evaluation</b>, <i>joint work with Laura Marino and Paul Wedrich</i>, <a href="https://arxiv.org/abs/2602.11120">arXiv:2602.11120</a>, preprint, 2026. </li>
+<li> <b>A note on TQFTs for orientable 2-dimensional cobordisms</b>, <i>joint work with Paul Wedrich</i>, <a href="https://arxiv.org/abs/2511.19373">arXiv:2511.19373</a>, preprint, 2025. </li>
 <li> <b>A construction of surface skein TQFTs and their extension to 4-dimensional 2-handlebodies</b>, <a href="https://arxiv.org/abs/2511.19352">arXiv:2511.19352</a>, preprint, 2025. </li>
 </ol>
   
 ## Invited talks
+
+* 4-Manifold invariants from surface skein theory, *[TATERS Seminar](https://sites.google.com/boisestate.edu/taters/2026A) (online), Boise State University, Idaho, United States* 2026.
 
 * A construction of surface skein TQFTs from commutative Frobenius algebras and their extension to 4d 2-handlebodies, *[Lie Group Seminar](https://en.www.math.fau.de/lie-groups/lie-gveranstaltungskalender-lie-gruppen-2/lectures-ws-2025-2026/), Erlangen, Germany* 2025.
   
