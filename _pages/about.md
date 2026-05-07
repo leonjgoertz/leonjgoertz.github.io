@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Currently, I am in the third and final year of my PhD at the [University of Hamburg](https://www.uni-hamburg.de/en.html) under the supervision of [Paul Wedrich](https://paul.wedrich.at). **I am on the job market to start in Fall 2026!**
+Currently, I am in the third and final year of my PhD at the [University of Hamburg](https://www.uni-hamburg.de/en.html) under the supervision of [Paul Wedrich](https://paul.wedrich.at).
 
 Part of my funding comes from the [Collaborative Research Center 1624: Higher Structures, Moduli Spaces and Integrability](https://www.sfb1624.uni-hamburg.de/), and I am a member of the [Cluster of Excellence: Quantum Universe](https://www.qu.uni-hamburg.de/).
 

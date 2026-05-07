@@ -5,9 +5,11 @@ permalink: /talks/
 author_profile: true
 ---
 
-* 4-Manifold invariants from surface skein theory, *[TATERS Seminar](https://sites.google.com/boisestate.edu/taters/2026A) (online), Boise State University, Idaho, United States* 2026.
+* Invariants of 4-dimensional 2-handlebodies from surface skein TQFTs, *[Topology Seminar](https://sites.google.com/view/lukegconners/seminar), University of Zurich, Zurich, Switzerland*, May 5th, 2026.
 
-* A construction of surface skein TQFTs from commutative Frobenius algebras and their extension to 4d 2-handlebodies, *[Lie Group Seminar](https://en.www.math.fau.de/lie-groups/lie-gveranstaltungskalender-lie-gruppen-2/lectures-ws-2025-2026/), Erlangen, Germany* 2025.
+* 4-Manifold invariants from surface skein theory, *[TATERS Seminar](https://sites.google.com/boisestate.edu/taters/2026A) (online), Boise State University, Idaho, United States*, February 13th, 2026.
+
+* A construction of surface skein TQFTs from commutative Frobenius algebras and their extension to 4d 2-handlebodies, *[Lie Group Seminar](https://en.www.math.fau.de/lie-groups/lie-gveranstaltungskalender-lie-gruppen-2/lectures-ws-2025-2026/), Friedrich-Alexander University, Erlangen, Germany* October 20th, 2025.
 
 
 <!-- {% if site.talkmap_link == true %}

@@ -7,6 +7,8 @@ author_profile: true
 
 ### At University of Hamburg
 
+Summer term 2026: Exercise class for [basic concepts in discrete mathematics and probabilistic thinking](https://www.stine.uni-hamburg.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-Ap7dURQSA5YHAAe4D~lT8-QFAWxR3KQAuqzRn82LVf-xfTFeWs6eX6xXWb~jp9DnbzhROYiaQ7ElXns302s-fSDb2tam6rKxIszkrO5y~PaGZl-zIYrdIa8kbsMubmwOf6w~IsBsFhAsKvi2OiozidMFhwCos5JmpwGaLmnschEGAaM77YODjZ2atlkkdT2WjfuhrE9nVuRjkOeM_)
+
 Winter term 2025/26: Exercise class for [basic concepts of geometry](https://www.stine.uni-hamburg.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-Aqmg8m25ZA9Niy0r-VVUA~y1N1MIKbBzuH2Gn6AWTzvPPHD4O2nO7V3Lw7ePcM~VkD9FjjkD9EXEdCf2ugRFO4Yhkrtb8eDb3q9aU2lQuXZ2YGKoEQYgyKwBZDECtRP~QM7Ssxuo5a1eD9mkSpitTNcB~auVToPEsdcC7bgMECD7vV83HE4L6eD~Qx-jA~6CrD3WMfT1LrZmvYlk_)
 
 Summer term 2025: Exercise class and tutorial for [linear algebra II](https://www.stine.uni-hamburg.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-AprbH-cUt~ZVNsOkIYsPSvPDJsCMulB4D1aJLJaQWOZq717MrVWO0cWur26kAgEkBU~weu0PCacBzebsny-P0MFTEh5LatLfsOZ0OSwfWkyTURN99Co10g2zTR62QsJP2CR5RxxWyV21LA1WDaYR5wGQUEmpOsmZIYzQJODYs8TOLYIqA~p7iOa-UWzzKPT0t3HaCgncdxG6DcJ8_)
