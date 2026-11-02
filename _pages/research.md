@@ -6,7 +6,7 @@ author_profile: true
 ---
  
 
-My research interests lie in quantum topology and categorification, at the interface of low-dimensional topology and representation theory. In particular, I am interested in skein theory, categorified quantum link invariants, and topological quantum field theories (TQFTs). I enjoy using tools from category theory as an organizing pricinple and doing explicit computations with graphical calculus to construct invariants in quantum topology.
+My research interests lie in quantum topology and categorification, at the interface of low-dimensional topology and representation theory. In particular, I am interested in skein theory, categorified quantum link invariants, and topological quantum field theories (TQFTs). I enjoy using tools from category theory as an organizing principle and doing explicit computations with graphical calculus to construct invariants in quantum topology.
 
 If you're interested in my work, feel free to contact me. I would be happy to chat or give a talk about my research!
 

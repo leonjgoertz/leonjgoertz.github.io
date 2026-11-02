@@ -10,7 +10,7 @@ redirect_from:
 ## Academic Positions
 
 * **Postdoctoral Researcher**, Laboratoire de Mathématiques Blaise Pascal, Université Clermont Auvergne, France, 2026-*present*
-* **Doctroal Researcher**, Department of Mathematics, University of Hamburg, Germany, 2023-2026
+* **Doctoral Researcher**, Department of Mathematics, University of Hamburg, Germany, 2023-2026
 
 ## Education
 
