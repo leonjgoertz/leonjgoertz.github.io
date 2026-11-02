@@ -7,16 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-Currently, I am in the third and final year of my PhD at the [University of Hamburg](https://www.uni-hamburg.de/en.html) under the supervision of [Paul Wedrich](https://paul.wedrich.at).
+I am a postdoctoral researcher at the Laboratoire de Mathématiques Blaise Pascal, Université Clermont Auvergne, France, working with [Cristina Palmer-Anghel](http://www.cristinaanghel.ro/).
 
-Part of my funding comes from the [Collaborative Research Center 1624: Higher Structures, Moduli Spaces and Integrability](https://www.sfb1624.uni-hamburg.de/), and I am a member of the [Cluster of Excellence: Quantum Universe](https://www.qu.uni-hamburg.de/).
+My research interests lie in **quantum topology** and **categorification**, at the interface of low-dimensional topology and representation theory. In particular, I am interested in skein theory, categorified quantum link invariants, and topological quantum field theories (TQFTs).
 
-I am interested in **categorification** in the context of **low-dimensional topology**, **representation theory**, and **mathematical physics**. My PhD project revolves around the construction and extension of \\((3+\varepsilon)\\)-dimensional TQFTs from link homology theory. In particular, I study the skein theory of decorated surfaces in 3-manifolds. Read more about my research [here](research).
+I completed my PhD at the [University of Hamburg](https://www.uni-hamburg.de/en.html) under the supervision of [Paul Wedrich](https://paul.wedrich.at). My doctoral research focused on the construction and extension of TQFTs from surface skein theory, a theory of decorated surfaces embedded in 3-manifolds.
 
-I am also managing the [multimedia studio](https://www.math.uni-hamburg.de/forschung/bereiche/az/kohomologische-methoden/lehre/multimediastudio.html) of the Department of Mathematics and I am interested in science communication. Occasionally, I take the pictures at CRC1624 [events](https://www.sfb1624.uni-hamburg.de/overview/news.html).
+Before that, I obtained my double master’s degree in Mathematical Sciences and Theoretical Physics at [Utrecht University](https://www.uu.nl/en).
 
-Previously, I have obtained my double Master’s degree in Mathematical Sciences and Theoretical Physics at [Utrecht University](https://www.uu.nl/en).
+You can find more about my work on my [Research](/research/) page. A short CV is available [here](/cv/).
 
-Click [here](cv) for a short CV.
-
-In my free time, I like doing sports, photographing the night sky, and playing music.
+I am also interested in science communication. In my free time, I like doing sports, photographing the night sky, and playing music.
