@@ -32,7 +32,7 @@ redirect_from:
 
 * Surface skein theory and its extension to 4-dimensional handles, *Workshop III: Categorification in Quantum Topology, Institute for Pure and Applied Mathematics (IPAM), UCLA, Los Angeles, California, United States*, 18 November 2026
 
-* TBD, *Oberseminar Darstellungstheorie, Max Planck Institute for Mathematics (MPIM), Bonn, Germany*, 13 November 2026
+* A monoidal 2-category with duals from gl(N)-foams, *Oberseminar Darstellungstheorie, Max Planck Institute for Mathematics (MPIM), Bonn, Germany*, 13 November 2026
 
 * Invariants of 4-dimensional 2-handlebodies from surface skein TQFTs, *Topology Seminar, University of Zurich, Zurich, Switzerland*, 5 May 2026.
 
